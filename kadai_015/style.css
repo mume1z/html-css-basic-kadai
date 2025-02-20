@@ -1,13 +1,15 @@
+.html{
+    font-size: 20px;
+}
 body {
     font-family: "Arial","Meiryo",sans-serif;
-    font-size: 20px;
     text-align: center;
 }
 .blue {
     color: skyblue;
 }
 .pink{
-    color: pink;
+    color: rgb(255, 192, 203);
 }
 
 h1{
@@ -15,7 +17,7 @@ h1{
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 40px;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     border-bottom: solid black;
     text-shadow: 1px 1px 2px skyblue;
