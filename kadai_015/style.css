@@ -13,13 +13,13 @@ body {
 }
 
 h1{
-    font-family: "Josefin Sans", serif;
+    font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     font-size: 2rem;
     letter-spacing: 1.2em;
-    border-bottom: solid black;
+    border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 1px 2px skyblue;
 }
 #basic p{
